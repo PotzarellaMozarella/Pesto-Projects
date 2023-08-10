@@ -1,4 +1,4 @@
-# Pesto CSS Project: Animated Coloured Squares
+# CSS Project: Animated Coloured Squares
 
 Welcome to the **Pesto CSS Landing Page Project**! In this project, we have created a visually appealing landing page that features animated colored squares. The project focuses on applying CSS transitions to achieve an engaging effect where the squares open up and rotate by 90 degrees when the main div is hovered.
 
