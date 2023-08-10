@@ -6,8 +6,10 @@ Create 3 simple functions where call, bind and apply are used. The intention of 
 
 ## Assignment 3:
 What is the output of the below problem and why:
+
 ![Screenshot](AssignmentImages/Assignment3.png)
 
 ## Assignment 4:
 Refactor the above stack implementation, using the concept of closure, such that there is noway to access items array outside of createStack() function scope:
+
 ![Screenshot](AssignmentImages/Assignment4.png)
