@@ -2,10 +2,9 @@
 
 Welcome to the **Pesto HTML/CSS Landing Page Project**! In this project, we have created a landing page for CattyBoard, an online music platform, following the guidelines provided by Pesto. The project showcases the use of HTML and CSS to create a visually appealing and interactive landing page.
 
-You can check it out on this link: [CattyBoard](https://html-css-omega-six.vercel.app/) 
-
 ## Project Overview
 
+Screenshot:
 ![Screenshot](Screenshot.png)
 
 The Pesto HTML/CSS Landing Page Project aims to create an engaging and well-designed landing page for CattyBoard, featuring an album image, sidebar navigation, song list, and footer with player controls. The project focuses on adhering to the given UI design, using the "Lato" font for text, and utilizing the Line Awesome icon library for various icons.
