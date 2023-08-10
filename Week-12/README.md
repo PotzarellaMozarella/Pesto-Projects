@@ -7,14 +7,13 @@ In this assignment, you will design and create a Warehouse Database. The goal is
 - [Tables](#tables)
 - [Table Relationships](#table-relationships)
 - [SQL Files](#sql-files)
-- [SQL Queries](#sql-queries)
-  - [Find the item with the minimum weight](#find-the-item-with-the-minimum-weight)
-  - [Find different warehouses in "Pune"](#find-different-warehouses-in-pune)
-  - [Find items ordered by customer "Mr. Patil"](#find-items-ordered-by-customer-mr-patil)
-  - [Find the warehouse with the maximum stores](#find-the-warehouse-with-the-maximum-stores)
-  - [Find an item ordered the minimum number of times](#find-an-item-ordered-the-minimum-number-of-times)
-  - [Find detailed orders given by each customer](#find-detailed-orders-given-by-each-customer)
-
+- SQL Queries
+  - Find the item with the minimum weight
+  - Find different warehouses in "Pune"
+  - Find items ordered by customer "Mr. Patil"
+  - Find the warehouse with the maximum stores
+  - Find an item ordered the minimum number of times
+  - Find detailed orders given by each customer
 ## Tables
 
 The database consists of the following tables:
