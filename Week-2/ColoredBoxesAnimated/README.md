@@ -7,10 +7,10 @@ You can check it out on this link: [Animated Coloured Squares](https://pesto-pro
 ## Project Overview
 
 Before:
-![Screenshot](public/Jammming.png)
+![Screenshot](Before.png)
 
 After:
-![Screenshot](public/Jammming.png)
+![Screenshot](After.png)
 
 The Pesto CSS Landing Page Project showcases the creative use of CSS transitions to animate colored squares. The landing page includes a main div that, when hovered over, triggers a visually captivating transformation of the squares. Each square rotates around its outer-most corner, creating a unique and dynamic visual effect.
 
