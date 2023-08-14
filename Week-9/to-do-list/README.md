@@ -1,8 +1,6 @@
 # To Do list App
 
-Checkout the project here [Create React App](https://github.com/facebook/create-react-app)
-
-You can find more about the assignment at [To do list app](https://pesto-projects-ovki.vercel.app/) 
+Checkout the project here [To do list app](https://pesto-projects-ovki.vercel.app/pp)
 
 ### Features
 * User can add a new task in the to do list
