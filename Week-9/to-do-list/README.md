@@ -1,8 +1,8 @@
 # To Do list App
 
-This project was built with [Create React App](https://github.com/facebook/create-react-app)
+Checkout the project here [Create React App](https://github.com/facebook/create-react-app)
 
-You can find more about the assignment at [To do list app app](https://pestotech.teachable.com/courses/1911069/lectures/43351562) 
+You can find more about the assignment at [To do list app](https://pesto-projects-ovki.vercel.app/) 
 
 ### Features
 * User can add a new task in the to do list
