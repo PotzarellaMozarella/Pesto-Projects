@@ -4,7 +4,7 @@ Checkout the project here [To do list app](https://pesto-projects-ovki.vercel.ap
 
 ### Features
 * User can add a new task in the to do list
-* User can edit & update the existing tasks, mark them done, delete them
+* User can edit & update the existing tasks
 * User can mark the tasks done
 * User can delete the tasks
 
